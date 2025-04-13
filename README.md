@@ -22,7 +22,10 @@ A modern, full-screen, customizable homepage featuring a digital clock, weather 
 
 ## Demo
 
-![Screenshot](screenshot.png)  
+![Screenshot](Screenshot.png)
+![Screenshot](Screenshot1.png)
+![Screenshot](Screenshot2.png)
+![Screenshot](Screenshot3.png)
 *(Replace `screenshot.png` with an actual screenshot of your homepage for better visualization.)*
 
 ## Prerequisites
